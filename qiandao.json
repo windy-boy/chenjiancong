@@ -1,0 +1,36 @@
+{
+	"result": 0,
+	"msg": "success",
+	"data": {
+		"is_sign": "0",
+		"sign_in_total": "64519",
+		"startek_photo_total": "13786",
+		"dynamic_total": "52669",
+		"xingyou_total": "35800",
+		"sign_in_photos": [{
+			"uid": "892019",
+			"times": "11",
+			"avatar": "http:\/\/aliyun.zhanxingfang.com\/zxf\/upload\/avatar\/avatar_892019.jpg"
+		}, {
+			"uid": "1397447",
+			"times": "11",
+			"avatar": "http:\/\/aliyun.zhanxingfang.com\/zxf\/upload\/avatarNew\/2018\/02\/07\/avatar_1397447.jpg"
+		}, {
+			"uid": "1084997",
+			"times": "11",
+			"avatar": "http:\/\/aliyun.zhanxingfang.com\/zxf\/upload\/avatar\/avatar_1084997.jpg"
+		}, {
+			"uid": "853813",
+			"times": "11",
+			"avatar": "http:\/\/aliyun.zhanxingfang.com\/zxf\/upload\/avatar\/avatar_853813.jpg"
+		}, {
+			"uid": "1216388",
+			"times": "11",
+			"avatar": "http:\/\/aliyun.zhanxingfang.com\/zxf\/upload\/avatar\/avatar_1216388.jpg"
+		}, {
+			"uid": "130047",
+			"times": "11",
+			"avatar": "http:\/\/aliyun.zhanxingfang.com\/zxf\/upload\/avatar\/avatar_130047.jpg"
+		}]
+	}
+}
